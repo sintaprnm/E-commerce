@@ -373,12 +373,16 @@ Url di atas membatasi tampilan data produk dengan seller yang memiliki id_user =
 
 Berdasarkan url yang diterapkan pada metode POST melalui Postman yang mana pada tabel users ditambahkan data baru dengan id_user = 8.
 
+![image](https://github.com/sintaprnm/E-commerce/assets/114934098/5b101b16-371d-4a19-971b-69f191e361cd)
 <br/>
 
 
 ### **PUT**
 - Mengubah data yang ada di mana saya mencoba untuk mengubah data pada salah satu seller <br/>
 `http://localhost:8100/users/1`
+
+Data sebelumnya
+![image](https://github.com/sintaprnm/E-commerce/assets/114934098/0dec33ac-6f29-4867-9757-48c53985d122)
 
 '''
 {
@@ -393,6 +397,7 @@ Berdasarkan url yang diterapkan pada metode POST melalui Postman yang mana pada 
 '''
 
 Berdasarkan url yang diterapkan pada metode PUT melalui Postman yang mana user dengan id_user = 1 akan diupdate datanya sesuai dengan data yang baru diinputkan.
+
 
 <br/>
 
